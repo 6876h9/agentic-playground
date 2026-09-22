@@ -1,2 +1,4 @@
 # agentic-playground
-a mod for people playground that lets gemini connect with people playground to preform cool tasks
+
+
+unzip the zip and extract the mod in your people playgroind Mods folder
